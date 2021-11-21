@@ -2,7 +2,7 @@
  
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi&#44;&#32;I&#39;m&#32;Hyerim&#33;&fontAlign=50&fontAlignY=40&color=gradient&customColorList=1)
 
-<h3 align="center">🌐 TECHS STACKS that I've used at least once 🌐 </h3>
+<h3 align="center">🌐 TECHS STACKS that I've tried at least once 🌐 </h3>
 
 ![](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=white) ![](https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
  
